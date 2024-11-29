@@ -1,7 +1,7 @@
 <h1 align="center">Pepper's Public Profile Page!</h1>
 <h3 align="center">You can find out more about me in all of these fun places:</h3>
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
 	  <td>Blog</td>
 	  <td><a href="https://pepperspages.com">//pepperspages.com</a></td>
