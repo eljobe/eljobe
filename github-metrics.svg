@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            7186 Commits
+                            7189 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            610 issue comments
+                            616 issue comments
                         </div>
                     </section>
                     <section>
@@ -406,14 +406,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="195.02608155666772" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="195.02608155666772" y="0" width="53.63422570435911" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="248.66030726102684" y="0" width="52.624206459639105" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="301.2845137206659" y="0" width="38.480805937772345" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="339.7653196584383" y="0" width="38.44732729820729" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="378.2126469566456" y="0" width="36.851552287859754" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="415.0641992445053" y="0" width="24.508893123605766" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="439.5730923681111" y="0" width="20.426907631888902" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="195.0063243821686" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="195.0063243821686" y="0" width="53.62879227336409" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="248.63511665553267" y="0" width="52.618875348940456" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="301.25399200447316" y="0" width="38.47690762841951" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="339.7308996328926" y="0" width="38.44343238041787" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="378.1743320133105" y="0" width="36.89441946569442" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="415.0687514790049" y="0" width="24.506410242986114" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="439.57516172199104" y="0" width="20.42483827800895" height="8" fill="#555555"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2465,6 +2465,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2753,7 +2758,7 @@ Or do I have to keep the hierarchy flat in the drawable directory.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Oct 2025, 02:03:24 (timezone Europe/Zurich) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Oct 2025, 02:03:10 (timezone Europe/Zurich) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
