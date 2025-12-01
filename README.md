@@ -38,7 +38,7 @@
 </div>
 <p align="center">
   <a href="https://hitscounter.dev">
-    <img src="https://hitscounter.dev/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feljobe%2Fhit-counter&count_bg=%23A6DA95&title_bg=%23181926&icon=github.svg&icon_color=%23C6A0F6&title=Views+since+2024%2F11%2F29&edge_flat=false"/>
+    <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Feljobe&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC">
   </a>
 </p>
 <p align="center">
