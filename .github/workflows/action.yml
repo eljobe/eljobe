@@ -17,7 +17,7 @@ jobs:
       contents: write
     steps:
       # Fork of lowlighter/metrics@latest that accepts fine-grained tokens
-      - uses: eljobe/metrics@03284252a091fe0d798933b7b510e2aa56fbfb2f # allow-fine-grained-pat
+      - uses: eljobe/metrics@1dab75ec8e606d8402949113d544de2913426430 # allow-fine-grained-pat
         with:
           # Your GitHub token
           # The following scopes are required:
