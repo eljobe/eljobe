@@ -16,8 +16,8 @@ jobs:
     permissions:
       contents: write
     steps:
-      # Fork of lowlighter/metrics@latest that accepts fine-grained tokens
-      - uses: eljobe/metrics@e6464defc963128ab058dddbced00228d5c6211a # allow-fine-grained-pat
+      # Fork of gh-metrics/metrics that accepts fine-grained tokens
+      - uses: eljobe/metrics@26a11208dad5109fa98b448143d0028dedd79236 # gh-metrics-base
         with:
           # Your GitHub token
           # The following scopes are required:
