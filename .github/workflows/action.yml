@@ -9,12 +9,15 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    # The forked action builds its Docker image on every run
+    timeout-minutes: 30
     environment:
       name: production
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      # Fork of lowlighter/metrics@latest that accepts fine-grained tokens
+      - uses: eljobe/metrics@03284252a091fe0d798933b7b510e2aa56fbfb2f # allow-fine-grained-pat
         with:
           # Your GitHub token
           # The following scopes are required:
